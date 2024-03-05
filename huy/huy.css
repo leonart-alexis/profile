@@ -1,0 +1,55 @@
+h2{
+    color: red;
+    border-style: outset;
+    text-align: center;
+}
+p, ul, input, button{
+    line-height: 1.5;
+    font-size: 20px;
+}
+#top {
+    background-color: #3498db;
+    color: white;
+    text-align: right;
+    font-family: "Protest Revolution", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+      
+}
+#center {
+    text-align: left;
+    position: absolute;
+    top: 228px; right: 300px; left: 100px;
+}
+.sidebar {
+    text-align: center;
+    position: relative;
+    min-height: 400px;
+    p{
+        line-height: 2;
+        border: 2px solid black;
+        padding: 50px;
+        width: 300px;
+        height: 210px;
+        margin-left: 450px;
+        margin-top: 50px;
+        font-size: 22px;
+    }
+} 
+body {
+    margin: 0 auto;
+    padding: 40px;
+    height: 20px;
+    box-shadow: 0 0 1px rgba(0,0,0,.5);
+    position: relative;
+    width: 1000px;
+}
+
+#main2 {
+  font-family: "Noto Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}

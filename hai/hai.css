@@ -1,0 +1,68 @@
+body{
+    width: 750px;
+    min-height: 900px;
+    margin: 0 auto;
+    margin: 0 auto;
+    box-shadow: 0 0 1px rgba(0,0,0,.5);
+    background-color: #fff;
+    position: relative;
+    padding: 40px; 
+}
+#td {
+    margin-top:0;
+    margin-bottom: 10px;
+    padding: 20px;
+    font-family: "Protest Riot", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color:rgb(63, 108, 198);
+    text-align: center;
+    color:white;
+    font-size:3em;
+
+}
+#main{
+    width: 28.8em;
+    margin: auto;
+    padding: 10px;
+    border-style: solid;
+    border-width: thick;
+    position:absolute;
+    top: 185px; left: 300px;
+}
+#avatar{
+    margin-bottom: 20px;
+}
+td{
+    text-align: center;
+}
+#name{
+    display:inline-block;
+    width: 200px;
+}
+#name2{
+    display:inline-block
+}
+#day{
+    display:inline-block;
+    width: 200px;
+}
+#day2{
+    display: inline-block;
+}
+#diachi{
+    display:inline-block;
+    width: 200px;
+}
+#diachi2{
+    display: inline-block;
+}
+#sothich{
+    border-bottom-style: solid ;
+}
+#hocvan{
+    border-bottom-style: solid;
+}  
+#lienlac{
+    border-bottom-style: solid;
+}
